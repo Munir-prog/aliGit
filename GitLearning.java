@@ -4,7 +4,7 @@ public class GitLearning{
 		callFeature();
 	}
 	
-	public static void callFeature(){
+	public static void callSomeFeature(){ // from branch add-feature1
                 System.out.println("Hello from add-feature1");
         }
 
